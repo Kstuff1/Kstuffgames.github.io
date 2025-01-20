@@ -2,4 +2,4 @@ PC Version:
 ## https://kstuff1.github.io/hostmc-client/javascript ##
 
 Mobile Version:
-COMING SOON
+## https://kstuff1.github.io/hostmc-clientmobile/demo ##
