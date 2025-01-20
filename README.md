@@ -1,5 +1,5 @@
 PC Version:
-## https://kstuff1.github.io/kstuffgames.github.io/javascript ##
+## https://kstuff1.github.io/hostmc-client ##
 
 Mobile Version:
 COMING SOON
