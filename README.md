@@ -2,10 +2,6 @@ PC Version:
 
 ## https://kstuff1.github.io/hostmc-client/javascript ##
 
-Chromebook Optimized Version:
+Mobile Version:
 
-INDEV
-
-Changes:
-Compressed textures
-more soon.
+## https://kstuff1.github.io/hostmcpocket-client/javascript ##
