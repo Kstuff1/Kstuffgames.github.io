@@ -8,4 +8,4 @@ Mobile Version:
 
 Modified 1.14:
 
-## https:// kstuff1.github.io/120 ##
+## https://kstuff1.github.io/120 ##
