@@ -1,7 +1,7 @@
-PC Version:
+## PC Version: ##
 
 ## https://kstuff1.github.io/hostmc-client/javascript ##
 
-Chromebook Optimized Version: 
+## Chromebook Optimized Version: ##
 
-INDEV
+## INDEV ##
